@@ -1,10 +1,10 @@
 # vue_phone_book
-We provided some simple Vue.js template code (Fork from this project). Your goal is to create a simple form at the top that allows the user to enter in a first name, last name, and phone number and there should be a submit button. Once the submit button is pressed, the information should be displayed in a list below (automatically sorted by last name) along with all the previous information that was entered. This way the application can function as a simple phone book. When your application loads, the input fields (not the phone book list) should be prepopulated with the following values already: 
+We provided some simple Vue.js template code (Fork from this project). Your goal is to create a simple form at the top that allows the user to enter in a first name, last name, and phone number and there should be a submit button. Once the submit button is pressed, the information should be displayed in a list below (automatically sorted by first name) along with all the previous information that was entered. This way the application can function as a simple phone book. When your application loads, the input fields (not the phone book list) should be prepopulated with the following values already: 
 
-
-- First name = Helmi 
-- Last name = Baraja 
-- Phone = 123456789
+- Haley Prichet (019232323)
+- John Wick (0195873473)
+- Micheal Jordan (0195873471)
+- Son Goku (0195873470)
 
 Grade will be provided based on:
 1. Run without error or warning
